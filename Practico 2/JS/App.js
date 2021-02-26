@@ -12,4 +12,4 @@ console.log(perro1);
 
 perro1.hablar();
 
-perro1.medioDeVida();
+perro1.medioDeVida();           
